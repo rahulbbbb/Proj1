@@ -4,14 +4,13 @@
 
 Allows users to create events with details like title, date, location, and description. Users can upload media (image or video),  and previewed on the form. All event data is stored locally in the browser using local storage. The app also features a scrollable event listing, displaying event titles, dates, and media thumbnails.
 
-## Learn More
+## Components
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### AddEvent - Form file to add events
+### ListView - for list view of events
+### CommonComponent - SuccessModal, Formbody, Drawer for form Icons
+### TopNavigation 
+### Tabs
 
 ## Deploy on Vercel
 
