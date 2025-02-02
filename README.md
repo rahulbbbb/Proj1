@@ -1,7 +1,7 @@
 
 
 ## Event Creation and View Project
-
+### By Rahul Bankoti
 Allows users to create events with details like title, date, location, and description. Users can upload media (image or video),  and previewed on the form. All event data is stored locally in the browser using local storage. The app also features a scrollable event listing, displaying event titles, dates, and media thumbnails.
 
 ## Components
