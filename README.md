@@ -39,4 +39,4 @@ Allows users to create events with details like title, date, location, and descr
 
 # Deploy on Netlify
 
-[event-rahull.netlify.app](https://event-rahull.netlify.app/)
+[[event-rahull.netlify.app](https://event-rahull.netlify.app/)](https://event-rahull.netlify.app/)
