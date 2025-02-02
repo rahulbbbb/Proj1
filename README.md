@@ -26,7 +26,7 @@ Allows users to create events with details like title, date, location, and descr
 ### Responsive Design
 ![image](https://github.com/user-attachments/assets/3f138d8d-4fdf-4c42-a268-c705428cb500)
 
-![image](https://github.com/user-attachments/assets/2b94a8b1-226f-422c-b2d9-b5bef0aa7bc9)
+![image](https://github.com/user-attachments/assets/8921e598-c85c-437e-ac7e-f7228c241176)
 
 ![image](https://github.com/user-attachments/assets/f3d98318-d398-4493-9484-d6d4f30d4c8b)
 
