@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## Event Creation and View Project
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Allows users to create events with details like title, date, location, and description. Users can upload media (image or video),  and previewed on the form. All event data is stored locally in the browser using local storage. The app also features a scrollable event listing, displaying event titles, dates, and media thumbnails.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Components
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### AddEvent - Form file to add events
+### ListView - for list view of events
+### CommonComponent - SuccessModal, Formbody, Drawer for form Icons
+### TopNavigation 
+### Tabs
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![image](https://github.com/user-attachments/assets/ffaf5ed9-ddfb-414d-9a3d-b211ca82d5c6)
 
-## Learn More
+### If file exceeds the size limit
+![image](https://github.com/user-attachments/assets/e1b44a23-4fba-4f38-8d09-3f1875119a1d)
 
-To learn more about Next.js, take a look at the following resources:
+### Also add Videos with it
+![image](https://github.com/user-attachments/assets/68214882-ec67-4822-9d7d-aafcead4c8d0)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Success message on adding event successfully
+![image](https://github.com/user-attachments/assets/4cf454c1-1184-44f3-aaa5-86655596e43d)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Responsive Design
+![image](https://github.com/user-attachments/assets/3f138d8d-4fdf-4c42-a268-c705428cb500)
 
-## Deploy on Vercel
+![image](https://github.com/user-attachments/assets/8921e598-c85c-437e-ac7e-f7228c241176)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![image](https://github.com/user-attachments/assets/f3d98318-d398-4493-9484-d6d4f30d4c8b)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+
+
+
+# Deploy on Netlify
+
+[event-rahull.netlify.app](https://event-rahull.netlify.app/)
