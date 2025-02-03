@@ -52,10 +52,10 @@ export const RightDrawer = ({
 
      
       <div
-        className={`fixed z-50 ${widthClass} top-0 h-full bg-white shadow-lg right-0 ${
-          open ? "slideIn" : "slideOut"
+        className={`fixed z-50 w-full lg:${widthClass} top-0 h-full bg-white shadow-lg right-0 ${
+          open ? "slideIn" : "slideOut" 
         } ${isLoading ? "hidden" : "visible"}`}
-      >
+        >
         <div className="flex items-center justify-between gap-4 py-3 md:py-5 px-5 md:px-8 bg-gray-p-150 border-b border-gray-p-350">
           <h3 className=" text-black-b-250 text-base md:text-xl font-medium">
             {header}
